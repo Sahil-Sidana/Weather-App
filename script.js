@@ -1,4 +1,4 @@
-const key='c20dfd1799b1826fd92cfec2e51440fe';
+
 async function fetchWeatherData(city){
     
     try {
